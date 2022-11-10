@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import Upload from '../components/Upload';
+import Upload from '../components/Upload'
 
 const index = () => {
   return (
